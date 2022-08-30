@@ -1,0 +1,10 @@
+/* comentário */
+body{
+margin:50px;
+background-color:white;
+color:green;
+}
+
+canvas{
+display: block;
+}
